@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-iov-ocrplateid",
-  "version": "1.0.0",
+  "name": "easton-plugin-ocrplateid",
+  "version": "1.0.1",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-iov-ocrplateid",
+    "id": "easton-plugin-ocrplateid",
     "platforms": [
       "android",
       "ios"
