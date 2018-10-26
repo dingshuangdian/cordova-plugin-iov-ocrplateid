@@ -1,30 +1,7 @@
 {
-  "_from": "easton-plugin-ocrplateid@^1.0.4",
-  "_id": "easton-plugin-ocrplateid@1.0.4",
-  "_inBundle": false,
-  "_integrity": "sha1-bbjZujbcmSk9bAdQ5XrKt2zHROA=",
-  "_location": "/easton-plugin-ocrplateid",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "easton-plugin-ocrplateid@^1.0.4",
-    "name": "easton-plugin-ocrplateid",
-    "escapedName": "easton-plugin-ocrplateid",
-    "rawSpec": "^1.0.4",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.4"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "http://registry.npm.taobao.org/easton-plugin-ocrplateid/download/easton-plugin-ocrplateid-1.0.4.tgz",
-  "_shasum": "6db8d9ba36dc99293d6c0750e57acab76cc744e0",
-  "_spec": "easton-plugin-ocrplateid@^1.0.4",
-  "_where": "D:\\ProJect\\android\\chief",
-  "author": "",
-  "bundleDependencies": false,
+  "name": "easton-plugin-ocrplateid",
+  "version": "1.0.4",
+  "description": "",
   "cordova": {
     "id": "easton-plugin-ocrplateid",
     "platforms": [
@@ -32,14 +9,11 @@
       "ios"
     ]
   },
-  "deprecated": false,
-  "description": "",
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
   ],
-  "license": "ISC",
-  "name": "easton-plugin-ocrplateid",
-  "version": "1.0.4"
+  "author": "",
+  "license": "ISC"
 }
