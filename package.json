@@ -1,6 +1,6 @@
 {
   "name": "easton-plugin-ocrplateid",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "cordova": {
     "id": "easton-plugin-ocrplateid",
